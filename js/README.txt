@@ -1,0 +1,3 @@
+animatedModal.min.js  -->  the js was not in a cdn, see https://joaopereirawd.github.io/animatedModal.js/
+videosub.js           -->  comes from some js merged from https://github.com/codeit-ninja/SRT-Support-for-HTML5-videos , you can read comments inside of the file
+popper.min.js         -->  is an edit from https://unpkg.com/@popperjs/core@2 (removed last line), see https://stackoverflow.com/a/48997160/3138238
